@@ -1,6 +1,6 @@
 {
-  "name": "Alex AI Language Tutor",
-  "description": "An interactive AI language tutor named Alex that helps you practice conversational skills in various languages using real-time voice chat.",
+  "name": "LinguaMaster AI",
+  "description": "An expert, enthusiastic multilingual language tutor that helps you master new languages through natural, real-time voice conversations.",
   "requestFramePermissions": [
     "microphone"
   ]
